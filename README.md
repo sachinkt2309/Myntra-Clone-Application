@@ -1,2 +1,2 @@
-# Myntra-Clone-Application
+# Online-Shopping-Application
 JavaScript project replicate Myntra web application
