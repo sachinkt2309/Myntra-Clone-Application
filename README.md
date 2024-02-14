@@ -1,4 +1,4 @@
-# Online-Shopping-Application
+# Myntra-Clone-Application
 
 The Online Shopping Project is a web application developed using JavaScript, HTML, and CSS, offering a seamless and user-friendly shopping experience. Its intuitive and responsive design ensures accessibility across various devices. The dynamic features powered by JavaScript enhance real-time interactions, such as product filtering, cart management, and instant updates. The visually appealing interface, crafted with HTML and CSS, contributes to an engaging online shopping environment, combining functionality with aesthetics.
 
